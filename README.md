@@ -5,8 +5,8 @@ The task was to understand the basics of Machine Learning, explore a given crop 
 
 ## 📁 Files Included
 
-- `week1_crop_data_analysis.ipynb`: Colab notebook with data loading, info, and basic EDA.
-- `ML_intro_assignment.docx`: Word document explaining ML, Supervised ML, Regression, and Classification.
+- `crop_recommendation_week1.ipynb`: Colab notebook with data loading, info, and basic EDA.
+- `Week1_assignment.docx`: Word document explaining ML, Supervised ML, Regression, and Classification.
 
 ## 📊 Tasks Covered
 
