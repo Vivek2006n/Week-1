@@ -20,8 +20,26 @@ The task was to understand the basics of Machine Learning, explore a given crop 
 
 The dataset was provided as part of the internship.
 
+---
+
+# Week 2 - Exploratory Data Analysis & Preprocessing 🔍
+
+This week, I performed detailed exploratory data analysis (EDA) on the crop dataset and prepared it for machine learning.
+
+## 📁 Files Included
+
+- `Crop_Prediction_week2.ipynb`: Notebook containing all visualizations and preprocessing steps.
+
+## 📊 Tasks Covered
+
+- Plotted histograms, scatter plots, and box plots to visualize feature distribution and detect outliers.
+- Created a correlation heatmap to understand feature relationships between features.
+- Converted crop labels into numeric form using a mapping dictionary.
+- Dropped the original `label` column and added a new `crop_no` column.
+- Split the dataset into features (`X`) and target (`y`).
+- Performed a train-test split using `train_test_split()` from Scikit-learn.
+
 ## ✍️ Author
 
 Vivek Negi  
 B.Tech CSE Student | Aspiring Data Scientist
-
