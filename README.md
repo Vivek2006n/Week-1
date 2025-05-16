@@ -39,6 +39,27 @@ This week, I performed detailed exploratory data analysis (EDA) on the crop data
 - Split the dataset into features (`X`) and target (`y`).
 - Performed a train-test split using `train_test_split()` from Scikit-learn.
 
+---
+
+# Week 3 - Fertilizer Recommendation System + Feature Scaling 🌱
+
+In the final week, I developed a Fertilizer Recommendation system and enhanced the Crop Recommendation model using feature scaling.
+
+## 📁 Files Included
+
+- `Fertilizer_Recommendation_Final.ipynb`: Rule-based fertilizer recommendation system.
+- `Crop_Recommendation_Final.ipynb`: Improved crop prediction model with feature scaling using `StandardScaler`.
+
+## 📊 Tasks Covered
+
+- Performed EDA and preprocessing on fertilizer recommendation dataset.
+- Built a logic-based fertilizer recommender using NPK imbalance and crop input.
+- Recommended fertilizers such as Urea, DAP, etc. based on the nutrient deficiency.
+- Applied `StandardScaler()` for feature scaling to normalize data before training.
+- Improved accuracy and consistency of the crop recommendation model after scaling.
+
+---
+
 ## ✍️ Author
 
 Vivek Negi  
